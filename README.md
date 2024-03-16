@@ -11,5 +11,6 @@ Your Can Scroll Our Website So The Text Will Be Rotate Top And Bottom and Video 
 # Full Size Video After Scroll 
 <br>
 
-![Uploading Screenshot 2024-03-16 205600.png…]()
+![image](https://github.com/MohdHadi72/Scroll-Trigger/assets/154020781/28883a4e-0396-4e3c-850e-8fd4c3c2cc4b)
+
 
